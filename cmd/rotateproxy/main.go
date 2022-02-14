@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/akkuman/rotateproxy"
+	"github.com/whoamiecho/rotateproxy"
 )
 
 var (
